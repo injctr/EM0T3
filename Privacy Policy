@@ -1,44 +1,61 @@
 TERMS & CONDITIONS
 
-By downloading or using ML: Script and Tools, you agree to comply with these Terms and Conditions. Please read them carefully before using the app. You are not permitted to copy, modify, or distribute any part of the app, including its trademarks, in any way. Attempting to extract the source code, translate the app into other languages, or create derivative versions is also prohibited. All intellectual property rights related to the app, including trademarks, copyrights, and database rights, remain the property of the developer.
+By downloading or using this application, you automatically agree to these Terms and Conditions. Please read them carefully before proceeding. You are not permitted to copy, modify, or distribute the app, any part of it, or its trademarks in any form. You must not attempt to extract the app’s source code, translate it into other languages, or create derivative works. All intellectual property rights, including trademarks, copyrights, and database rights, belong to the app.
 
-ML: Script and Tools is designed to be as useful and efficient as possible. Therefore, we reserve the right to modify the app or introduce charges for certain features at any time, for any reason. If any service becomes paid, we will clearly inform you before any charges are applied.
+Kionyx GFX is dedicated to providing a useful and efficient experience. Therefore, we reserve the right to modify the app or introduce charges for certain services at any time and for any reason. Any paid features or services will always be clearly communicated in advance.
 
-The app may collect and process personal data that you provide to deliver its services. It is your responsibility to ensure that your device and access to the app are secure. We strongly advise against rooting or jailbreaking your device, as doing so may expose it to security risks such as malware and may cause the app to malfunction or stop working entirely.
+The app may store and process personal data you provide to deliver its services. It is your responsibility to keep your device secure. We strongly advise against rooting or jailbreaking your device, as doing so may expose it to security risks such as malware, compromise system protections, and potentially cause the app to malfunction.
 
-Our app integrates the anyIP SDK (from anyip.io) to support monetization. This software runs in the background without affecting your user experience. It uses your internet connection to access publicly available web data but does not collect or transmit any personal information. Its operation complies with regulations such as GDPR and CCPA. By using the app, you agree to the use of this SDK.
+Our app integrates the anyIP SDK (from anyip.io) to help support monetization. This software runs in the background without affecting your user experience. It uses your internet connection to access publicly available web data but does not collect or transmit personal information. The use of this SDK complies with regulations such as GDPR and CCPA. By using the app, you agree to this functionality.
 
-The app may also rely on third-party services, each governed by their own Terms and Conditions. These include:
+The app also relies on third-party services, each with their own Terms and Conditions. These include:
+
 - Google Play Services
 - anyIP
 
-Please note that some features of the app require an active internet connection. This may be via Wi-Fi or your mobile network provider. ML: Script and Tools is not responsible for reduced functionality if you do not have internet access or sufficient data allowance.
+Please note that some features require an active internet connection. This may be provided via Wi-Fi or your mobile network. Kionyx GFX is not responsible for reduced functionality due to lack of connectivity or data availability.
 
-If you use the app over mobile data or outside your home region, you may incur additional charges from your network provider, including roaming fees. By using the app, you accept responsibility for any such charges. If you are not the account holder for the device, we assume you have obtained permission from the bill payer.
+When using the app outside Wi-Fi coverage, standard mobile data charges may apply according to your service provider’s terms. This includes possible roaming charges if used outside your home region or country. You are responsible for any such costs. If you are not the device’s account holder, we assume you have obtained permission to use the app.
 
-Additionally, we are not responsible for issues caused by how you use the app. For example, if your device runs out of battery and you are unable to access the app, we cannot be held liable.
+You are also responsible for ensuring your device remains powered. If your device runs out of battery and you cannot access the app, Kionyx GFX cannot be held liable.
 
-While we strive to keep the app accurate and up to date, some information may depend on third-party sources. Therefore, ML: Script and Tools is not liable for any direct or indirect losses resulting from reliance on the app’s content or functionality.
+While we strive to keep the app accurate and up to date, some information depends on third-party sources. We do not accept liability for any direct or indirect losses resulting from reliance on such information.
 
-We may release updates to improve the app or adapt to system changes. The app is currently available on Android, and future compatibility requirements may change. You agree to install updates when available to continue using the app. We also reserve the right to discontinue the app at any time without prior notice. Upon termination, your rights to use the app will end, and you must stop using and delete it if necessary.
+We may update the app periodically. System requirements may change, and you may need to install updates to continue using it. We do not guarantee ongoing compatibility with all Android versions. Updates should be accepted when offered. We may also discontinue the app at any time without prior notice. Upon termination, your rights to use the app will end, and you must stop using and delete it if necessary.
+
+---
 
 CHANGES TO THESE TERMS AND CONDITIONS
-We may revise these Terms and Conditions from time to time. You are encouraged to review this page regularly for updates. Any changes will be posted here and will take effect immediately upon posting.
-These Terms and Conditions are effective as of April 17, 2026.
 
-ABOUT ML: SCRIPT AND TOOLS
-ML: Script and Tools is an application designed for downloading and extracting large files, such as game resources or utility tools. To function properly, the app requires permission to manage all files on your device.
+We may revise these Terms and Conditions occasionally. You are encouraged to review this page regularly for updates. Any changes will be posted here.
+
+Effective date: May 7, 2026
+
+---
+
+ABOUT KIONYX GFX
+
+Kionyx GFX is a file downloader and extractor designed to handle large files, such as game assets or tools. To function properly, the app requires permission to manage all files on your device.
 
 WHY THIS PERMISSION IS REQUIRED
-- The “Manage All Files” permission is necessary for the following:
-- Downloading and saving large files to locations you choose on your device
-- Extracting ZIP or compressed files into selected folders
-- Organizing and managing files stored on your device
-Without this permission, the app will not be able to perform its core functions effectively.
+
+The “Manage All Files” permission allows the app to:
+
+- Download and save large files to locations you choose
+- Extract ZIP or compressed files into selected folders
+- Organize and manage files stored on your device
+
+Without this permission, essential features like downloading, extracting, and file management may not work properly.
+
+---
 
 CONTACT US
-If you have any questions or suggestions regarding these Terms and Conditions, feel free to contact us at:
+
+If you have any questions or suggestions regarding these Terms and Conditions, you may contact us at:
 kio02172022@gmail.com
 
+---
+
 ACKNOWLEDGMENT
-By using ML: Script and Tools, you confirm that you have read, understood, and agreed to these Terms and Conditions.
+
+By using this app, you confirm that you have read, understood, and agreed to these Terms and Conditions.
